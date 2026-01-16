@@ -22,7 +22,7 @@ Libraries:
 
 🚀 Setup and Installation
 
-To run this project locally, please follow these steps:
+To run this project locally, please follow the steps:
 
 Clone the Repository:
 ```bash
