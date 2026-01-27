@@ -218,4 +218,4 @@ if movie_list:
         else:
             st.warning("Please select a movie first.")
 else:
-    st.warning("No movies match your filter criteria. Please adjust the filters.")
+    st.warning("No movies match your filter criteria. Please adjust the filter.")
